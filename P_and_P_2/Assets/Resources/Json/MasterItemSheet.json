@@ -1,0 +1,34 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "Sarcophagus_Key",
+    "Description": "A small gem stone",
+    "Flavor Text": "This gem stone looks oddly cut, almost unnatural",
+    "Name Hidden": "TRUE",
+    "Type":  "Quest"
+  },
+  {
+    "ID": 2,
+    "Name": "Ramen",
+    "Description": "Restores 25 health",
+    "Flavor Text": "It doesn't matter if you're a street vendor or a fancy chef, everyone can enjoy a good bowl of ramen",
+    "Name Hidden": "FALSE",
+    "Type":  "Consumable"
+  },
+  {
+    "ID": 3,
+    "Name": "Rusty_Sword",
+    "Description": "An old rusty sword",
+    "Flavor Text": "This guy has seen better days",
+    "Name Hidden": "FALSE",
+    "Type":  "Equipment"
+  },
+  {
+    "ID": 4,
+    "Name": "Tattered_Boots",
+    "Description": "Well worn boots",
+    "Flavor Text": "You can find better shoes in the trash",
+    "Name Hidden": "FALSE", 
+    "Type":  "Equipment"
+  }
+]

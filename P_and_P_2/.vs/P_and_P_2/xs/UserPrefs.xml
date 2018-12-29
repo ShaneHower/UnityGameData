@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{40AAE83B-6CDC-67CF-F775-FE72FCEFEEB1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InventoryAndItems/ItemDataBase/ItemMasterList.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InventoryAndItems/Inventory.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/Dialogue/ObjDialogue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Dialogue/PlayerDiagChoice.cs" Line="10" Column="15" />
+      <File FileName="Assets/Scripts/Dialogue/TextBoxManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InventoryAndItems/UsableItem.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/Movement/PlayerMovement.cs" Line="32" Column="10" />
+      <File FileName="Assets/Scripts/InventoryAndItems/ItemDataBase/ItemData.cs" Line="43" Column="18" />
+      <File FileName="Assets/Scripts/InventoryAndItems/ItemDataBase/ItemMasterList.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/InventoryAndItems/ItemDataBase/QuestItem.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/Menus/InventoryMenu.cs" Line="16" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
