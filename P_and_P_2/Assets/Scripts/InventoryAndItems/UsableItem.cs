@@ -5,7 +5,7 @@ public class UsableItem : MonoBehaviour {
     // Game Objects and Components
     private Rigidbody2D rigb;
     public GameObject player;
-    public GameObject inventory;
+    public GameObject itemData;
 
     // Simple Data Types
     public int itemId;
@@ -46,9 +46,9 @@ public class UsableItem : MonoBehaviour {
         {
             if (Input.GetKey(KeyCode.E))
             {
-                ItemData data = inventory.GetComponent<ItemData>();
-                data.id = itemId;
-                data.objAdded = true;
+                ItemCache cache = itemData.GetComponent<ItemCache>();
+                cache.itemId = itemId;
+                cache.itemAdded = true;
                 Destroy(this.gameObject);
             }
         }

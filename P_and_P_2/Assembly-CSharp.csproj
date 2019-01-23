@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Dialogue\PlayerDiagChoice.cs" />
     <Compile Include="Assets\Scripts\Dialogue\TextBoxManager.cs" />
     <Compile Include="Assets\Scripts\InventoryAndItems\Inventory.cs" />
+    <Compile Include="Assets\Scripts\InventoryAndItems\ItemDataBase\ItemCache.cs" />
     <Compile Include="Assets\Scripts\InventoryAndItems\ItemDataBase\ItemData.cs" />
     <Compile Include="Assets\Scripts\InventoryAndItems\ItemDataBase\ItemMasterList.cs" />
     <Compile Include="Assets\Scripts\InventoryAndItems\ItemDataBase\QuestItem.cs" />
